@@ -7,6 +7,10 @@ This project involves the development of a multi-threaded server application tha
 ### Semester
 2nd
 
+### users name
+ITNE352-B1 : is Nouf Bureshaid
+Amna Hesham : is Amna Hesham
+
 ### Group 
 Group B1
 ITNE352
