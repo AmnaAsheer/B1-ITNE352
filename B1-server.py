@@ -2,6 +2,7 @@ import socket
 import json
 import os
 import threading
+import requests
 countries = {
     "Australia": "au",
     "New Zealand": "nz",
@@ -13,4 +14,4 @@ countries = {
     "Egypt": "eg",
     "Morocco": "ma",
 }
-import requests
+
