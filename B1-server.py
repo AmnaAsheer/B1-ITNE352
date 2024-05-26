@@ -33,3 +33,15 @@ sources = [
     {"name": "Source A", "country": "US", "description": "Description A", "url": "http://example.com/a", "category": "General", "language": "English"},
     {"name": "Source B", "country": "GB", "description": "Description B", "url": "http://example.com/b", "category": "Business", "language": "English"}
 ]
+NEWS_API_KEY = 'd4b3d0b1675f48709625f2ce6cd2aea4'
+BASE_URL = 'https://newsapi.org/v2/'
+HOST = '127.0.0.1'
+PORT = 65432
+
+def get_allnews(endpoint, params):
+    params['apiKey'] = NEWS_API_KEY
+    response = requests.get(BASE_URL + endpoint, params=params)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        return {'status': 'error', 'message': 'Unnable to fetch data'}
