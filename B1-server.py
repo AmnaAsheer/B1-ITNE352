@@ -13,3 +13,4 @@ countries = {
     "Egypt": "eg",
     "Morocco": "ma",
 }
+import requests
