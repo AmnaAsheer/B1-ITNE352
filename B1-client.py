@@ -29,3 +29,19 @@ def search_headlines_menu(SocketC):
             news_data = mainrequest(SocketC, f'get_news|everything|{json.dumps(params)}')
             display_items(news_data)
         elif option == '2':
+            category = input("Enter category (e.g., business, entertainment, general, health, science, sports, technology): ")
+            params = {'category': category}
+            news_data = mainrequest(SocketC, f'get_news|top-headlines|{json.dumps(params)}')
+            display_items(news_data)
+        elif option == '3':
+            country = input("Enter country code (e.g., us, in): ")
+            params = {'country': country}
+            news_data = mainrequest(SocketC, f'get_news|top-headlines|{json.dumps(params)}')
+            display_items(news_data)
+        elif option == '4':
+            news_data = mainrequest(SocketC, 'get_news|top-headlines|{}')
+            display_items(news_data)
+        elif option == '5':
+            break
+        else:
+            print("Invalid input. Please enter again.")
