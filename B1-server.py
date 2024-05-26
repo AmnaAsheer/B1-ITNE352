@@ -56,3 +56,28 @@ def Chandel(client_socket, addr):
     try:
         client_name = client_socket.recv(1024).decode('utf-8')
         print(f"Client name: {client_name}")    
+        while True:
+            request = client_socket.recv(1024).decode('utf-8')
+            if not request:
+                break
+            print(f"Requester: {client_name}, Request: {request}")
+            if request.startswith('get_news'):
+                _, endpoint, params_json = request.split('|', 2)
+                params = json.loads(params_json)
+                news_data = get_allnews(endpoint, params)
+                Save_userlog("Group-B1", client_name, "get_news", news_data)
+                response = json.dumps(news_data).encode('utf-8')
+                response_length = len(response)
+                print(f"Sending response length: {response_length}")
+                client_socket.sendall(str(response_length).encode('utf-8').ljust(10))
+                client_socket.sendall(response)
+                print("Response sent")
+            else:
+                error_response = json.dumps({'status': 'error', 'message': 'Invalid request'}).encode('utf-8')
+                client_socket.sendall(str(len(error_response)).encode('utf-8').ljust(10))
+                client_socket.sendall(error_response)
+    except ConnectionResetError:
+        pass
+    finally:
+        print(f"Client {client_name} disconnected")
+        client_socket.close()
