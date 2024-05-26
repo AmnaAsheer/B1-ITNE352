@@ -7,3 +7,8 @@ def mainrequest(SocketC, request):
     response_length = int(response_length_str)
     print(f"Received response length: {response_length}")
     response_data = b""
+    while len(response_data) < response_length:
+        part = SocketC.recv(response_length - len(response_data))
+        response_data += part
+
+    return json.loads(response_data.decode('utf-8'))
