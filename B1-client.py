@@ -45,3 +45,24 @@ def search_headlines_menu(SocketC):
             break
         else:
             print("Invalid input. Please enter again.")
+            
+def receive_sources(SocketC):
+    while True:
+        print("List of sources menu:")
+        print("1. Search by category")
+        print("2. Search by country")
+        print("3. Search by language")
+        print("4. List all")
+        print("5. Back to the main menu")
+        option = input("Select an option: ")
+
+        if option == '1':
+            category = input("Enter category (e.g., business, entertainment, general, health, science, sports, technology): ")
+            params = {'category': category}
+            sources_data = mainrequest(SocketC, f'get_news|sources|{json.dumps(params)}')
+            receive_and_print(sources_data)
+        elif option == '2':
+            country = input("Enter country code (e.g., au, nz, ca, ae, sa, gb, us, eg, ma): ")
+            params = {'country': country}
+            sources_data = mainrequest(SocketC, f'get_news|sources|{json.dumps(params)}')
+            receive_and_print(sources_data)
