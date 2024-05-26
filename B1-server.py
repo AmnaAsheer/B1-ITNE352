@@ -45,3 +45,14 @@ def get_allnews(endpoint, params):
         return response.json()
     else:
         return {'status': 'error', 'message': 'Unnable to fetch data'}
+    
+def Save_userlog(group_id, client_name, option, data):
+    filename = f"{group_id}_{client_name}_{option}.json"
+    with open(filename, 'w') as file:
+        json.dump(data, file, indent=4)
+
+def Chandel(client_socket, addr):
+    print(f"Accepted connection from {addr}")
+    try:
+        client_name = client_socket.recv(1024).decode('utf-8')
+        print(f"Client name: {client_name}")    
