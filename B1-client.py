@@ -92,4 +92,20 @@ def display_items(news_data):
             print(f"URL: {article['url']}")
     else:
         print('Failed to fetch news.')           
-    
+
+def receive_and_print(sources_data):
+    if sources_data['status'] == 'ok':
+        for i, source in enumerate(sources_data['sources']):
+            print(f"{i+1}. {source['name']} ({source['country']})")
+    else:
+        print('Failed to fetch sources.')
+        
+HOST = '127.0.0.1'
+PORT = 65432
+
+if __name__ == '__main__':
+    client_name = input("Enter your name: ")
+    SocketC = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    SocketC.connect((HOST, PORT))
+    SocketC.send(client_name.encode('utf-8'))
+       
