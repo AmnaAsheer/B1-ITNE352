@@ -81,3 +81,18 @@ def Chandel(client_socket, addr):
     finally:
         print(f"Client {client_name} disconnected")
         client_socket.close()
+        
+def main():
+    server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    server_socket.bind((HOST, PORT))
+    server_socket.listen(5)
+    print(f'Server listening on {HOST}:{PORT}')
+
+    while True:
+        client_socket, addr = server_socket.accept()
+        client_handler = threading.Thread(target=Chandel, args=(client_socket, addr))
+        client_handler.start()
+
+if __name__ == '__main__':
+    main()
+
