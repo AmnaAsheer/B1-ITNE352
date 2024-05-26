@@ -66,3 +66,16 @@ def receive_sources(SocketC):
             params = {'country': country}
             sources_data = mainrequest(SocketC, f'get_news|sources|{json.dumps(params)}')
             receive_and_print(sources_data)
+        elif option == '3':
+            language = input("Enter language code (e.g., ar, en): ")
+            params = {'language': language}
+            sources_data = mainrequest(SocketC, f'get_news|sources|{json.dumps(params)}')
+            receive_and_print(sources_data)
+        elif option == '4':
+            sources_data = mainrequest(SocketC, 'get_news|sources|{}')
+            receive_and_print(sources_data)
+        elif option == '5':
+            break
+        else:
+            print("Invalid input. Please enter again.")
+    
