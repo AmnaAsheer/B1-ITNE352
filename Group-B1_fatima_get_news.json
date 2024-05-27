@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 40238,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "World Central Kitchen to resume food aid in Gaza",
+            "description": "The aid organisation had stopped distributing food in Gaza after an Israeli strike killed seven workers.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68915931",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A810/production/_133242034_capture.png",
+            "publishedAt": "2024-04-28T18:47:51Z",
+            "content": "World Central Kitchen is to resume distributing food in Gaza, nearly a month after seven of its aid workers were killed in an Israeli air strike. \r\nThe aid organisation said it has 276 trucks with ei\u2026 [+3463 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "The next food marketing blitz is aimed at people on new weight-loss drugs",
+            "description": "Taking a weight-loss drug? Food makers have just the new food for you.",
+            "url": "https://arstechnica.com/science/2024/05/with-weight-loss-drugs-booming-companies-target-dieters-with-new-foods/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1189380093-760x380.jpeg",
+            "publishedAt": "2024-05-23T14:08:53Z",
+            "content": "37\r\nAs new diabetes and weight-loss drugs help patients curb appetites and shed pounds, food manufacturers are looking for new ways to keep their bottom lines plump.\r\nMillions of Americans have begun\u2026 [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "A food delivery driver who bit off a customer's thumb has been seen delivering food again",
+            "description": "At the time of the attack, the rider was working as a substitute using someone else's account.",
+            "url": "https://www.businessinsider.com/delivery-driver-bit-off-customers-thumb-seen-delivering-food-again-2024-5",
+            "urlToImage": "https://i.insider.com/66336aa5ec0c6965690009a1?width=1200&format=jpeg",
+            "publishedAt": "2024-05-02T12:59:38Z",
+            "content": "The rider was working as a substitute using someone else's account.Mike Kemp/Getty Images\r\n<ul><li>A Deliveroo driver who bit\u00a0off a customer's thumb in 2022 has been seen delivering food again.</li><\u2026 [+3163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "Neuralink Can Implant Second Person With a Brain Chip, FDA Says",
+            "description": "Neuralink, the Elon Musk-funded neuroscience startup, has received approval from the U.S. Food and Drug Administration to implant its next patient with its experimental brain chip. This next operation will seek to fix certain issues that occurred following it\u2026",
+            "url": "https://gizmodo.com/neuralink-fda-musk-implant-second-person-brain-chip-1851488440",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/552b7fbe4e7b520b3d8fb03aef618bf5.jpg",
+            "publishedAt": "2024-05-20T18:40:00Z",
+            "content": "Neuralink, the Elon Musk-funded neuroscience startup, has received approval from the U.S. Food and Drug Administration to implant its next patient with its experimental brain chip. This next operatio\u2026 [+2917 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erin McDowell",
+            "title": "Chain restaurants like Chili's are coming for fast-food giants in the latest bout of the value wars",
+            "description": "Fast-food prices are climbing, and chain restaurants like Chili's are coming for fast-food giants with meal deals and new burgers.",
+            "url": "https://www.businessinsider.com/chain-restaurants-vs-fast-food-value-wars-2024-4",
+            "urlToImage": "https://i.insider.com/662a7fcb0dfb1341e9ff2c1d?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T18:43:19Z",
+            "content": "Fast-food prices are climbing, and chain restaurants like Chili's are coming for fast-food giants with meal deals in a bid to win the value wars.UCG/Getty Images; Chili's; Jenny Chang-Rodriguez/BI\r\n<\u2026 [+9361 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "David Watsky",
+            "title": "1-Minute Microwave Poached Eggs Are the Easiest Way to Get Your Morning Protein - CNET",
+            "description": "Swap empty carbs for food fuel in the morning with this foolproof method for poaching eggs.",
+            "url": "https://www.cnet.com/home/kitchen-and-household/1-minute-microwave-poached-eggs-are-the-easiest-way-to-get-your-morning-protein/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/6e6dc8d61368f63aa4d0cc2feab2e7ddc3b95d6b/hub/2023/10/06/77f7a038-aa94-48a9-92ae-9dc4a7a3ca2d/img-4553.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-05-11T12:02:04Z",
+            "content": "Poached eggs are a brunch staple but they can be tricky to make at home without overcooking or breaking the yolk as you drop it into a pot of boiling water. I recently learned how to make microwave-p\u2026 [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alexandra Bacon",
+            "title": "Wendy's joins McDonald's in announcing a new value meal as the fast food wars heat up",
+            "description": "The lower-price deal comes as customers are increasingly frustrated by rising fast-food prices.",
+            "url": "https://www.businessinsider.com/wendys-3-dollar-breakfast-deal-rivals-mcdonalds-fast-food-wars-2024-5",
+            "urlToImage": "https://i.insider.com/664c64b314fb5b23cc5e8d54?width=1200&format=jpeg",
+            "publishedAt": "2024-05-21T09:34:58Z",
+            "content": "Wendy's launches a new breakfast deal.SOPA Images/Getty Images\r\n<ul><li>Wendy's is introducing a new $3 breakfast combo meal.</li><li>Diners have been increasingly frustrated with high fast food pric\u2026 [+1527 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Boy given single nugget in wrap for school lunch",
+            "description": "University Academy Holbeach in Lincolnshire says the meal fell short of its expectations.",
+            "url": "https://www.bbc.co.uk/news/uk-england-lincolnshire-68920343",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E0C8/production/_133244575_wrap976.jpg",
+            "publishedAt": "2024-04-30T05:17:22Z",
+            "content": "A woman said she was \"disgusted\" after her teenage grandson was given a single piece of chicken in a wrap for his school lunch.\r\nThe student was given the food at Lincolnshire's University Academy Ho\u2026 [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Gabby Landsverk",
+            "title": "Doctor-designed food prescriptions could help patients cut medical costs for hypertension and cancer",
+            "description": "Food prescriptions are a growing trend to prevent illnesses like cancer. Here are 5 healthy foods a doctor often recommends.",
+            "url": "https://www.businessinsider.com/doctor-shares-foods-prescribed-to-fight-disease-2024-5",
+            "urlToImage": "https://i.insider.com/664f4eada961b37edf3925ff?width=1200&format=jpeg",
+            "publishedAt": "2024-05-24T16:05:01Z",
+            "content": "Some doctors are offering their patients tailored nutrition plans, or prescribing specific heart-healthy foods to curb chronic illness.Getty Images; Alyssa Powell/BI\r\n<ul><li>Doctors' custom food pre\u2026 [+9432 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alexandra Bacon",
+            "title": "People keep celebrating their birthdays at Costco. Here's how they're doing it.",
+            "description": "Costco superfans are celebrating their birthdays at the store, with several viral TikToks documenting parties held in the food court.",
+            "url": "https://www.businessinsider.com/costco-superfans-members-celebrate-birthday-parties-in-store-food-court-2024-5",
+            "urlToImage": "https://i.insider.com/663e116df27898f532d6021b?width=1200&format=jpeg",
+            "publishedAt": "2024-05-12T21:57:01Z",
+            "content": "Some people are taking to the Costco food court for a budget-friendly birthday meal.UCG/Getty Images\r\n<ul><li>A woman hosted a surprise party for her husband at a Costco in Georgia.\u00a0</li><li>Her TikT\u2026 [+3413 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "nraucheisen@businessinsider.com (Nicole Raucheisen,Charlie Floyd,Conner Blake,Joe Avella,Harry Kersh)",
+            "title": "A British tourist and a local find the best birria tacos in Los Angeles",
+            "description": "\"Food Wars\" hosts Harry Kersh and Joe Avella visit five restaurants across Los Angeles to find the best birria tacos in the city.",
+            "url": "https://www.businessinsider.com/british-tourist-and-local-find-best-birria-tacos-los-angeles-2024-5",
+            "urlToImage": "https://i.insider.com/66325e870dfb1341e90132a7?width=1200&format=jpeg",
+            "publishedAt": "2024-05-01T20:36:54Z",
+            "content": "\"Food Wars\" hosts Harry Kersh and Joe Avella travel across Los Angeles to find the best birria tacos in the city. They'll be visiting five locations in just one day to see what the city has to offer.\u2026 [+173 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brenda Stolyar, Gear Team",
+            "title": "36 Best Graduation Gifts (2024): For College Grads",
+            "description": "Ring in their special milestone with useful gadgets, outdoor gear, subscriptions, and modern conveniences.",
+            "url": "https://www.wired.com/gallery/best-graduation-gift-ideas-2024/",
+            "urlToImage": "https://media.wired.com/photos/663c058689124d013b288e2a/191:100/w_2580,c_limit/Dash-Mini-Waffle-Maker-Abstract-Background-SOURCE-Amazon.jpg",
+            "publishedAt": "2024-05-10T15:30:00Z",
+            "content": "Securing a degree is always worth celebrating, but the past few graduating classes have overcome more than the standard all-nighters and strict professors. After dealing with an ongoing pandemic, rem\u2026 [+869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelsey Vlamis",
+            "title": "A GenX chef says he's weaning off food delivery apps like DoorDash and Uber Eats because of 2 big downsides. Here's what he's doing instead.",
+            "description": "Maryland chef and restaurant owner Tony Marciante said food-delivery apps like DoorDash and Uber Eats were cutting too far into his margins.",
+            "url": "https://www.businessinsider.com/restaurants-owner-chef-moving-off-food-delivery-apps-doordash-ubereats-2024-5",
+            "urlToImage": "https://i.insider.com/6647dee520abc1efe8fb5ae9?width=1200&format=jpeg",
+            "publishedAt": "2024-05-21T22:51:28Z",
+            "content": "Chef Tony Marciante said food-delivery apps were cutting too far into his margins.UCG/Getty Images\r\n<ul><li>Tony Marciante is weaning his Maryland restaurants off of popular food-delivery apps.</li><\u2026 [+5404 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Claire Turrell",
+            "title": "I moved to the US at 16 and went from fast food delivery driver to making $3 million a year. Here's how I did it.",
+            "description": "Andres Mendez moved to NYC when he was 16 and started work as a food delivery driver. 15 years later, he earns seven figures as a professional chef.",
+            "url": "https://www.businessinsider.com/chef-3-million-year-career-progression-2024-5",
+            "urlToImage": "https://i.insider.com/663e3c5eb4abc992e8c80a59?width=1200&format=jpeg",
+            "publishedAt": "2024-05-13T09:05:02Z",
+            "content": "Chef Andres Mendez is a chef for Cook Unity.Cook Unity\r\n<ul><li>Chef Andres Mendez moved to NYC and went from fast-food delivery driver to earning over $3M a year.</li><li>Mendez's income skyrocketed\u2026 [+5843 chars]"
+        }
+    ]
+}

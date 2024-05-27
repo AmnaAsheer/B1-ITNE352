@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 1000,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RMC Sport",
+            "title": "DIRECT. Roland-Garros 2024: Ca passe pour Gasquet et Garcia! - RMC Sport",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3JtY3Nwb3J0LmJmbXR2LmNvbS90ZW5uaXMvcm9sYW5kLWdhcnJvcy9kaXJlY3Qtcm9sYW5kLWdhcnJvcy1jLWVzdC1wYXJ0aS1wb3J0ZS1kLWF1dGV1aWwtc3VpdmV6LWxlLTFlci10b3VyLWRlLWwtZWRpdGlvbi0yMDI0LWVuLWxpdmVfTE4tMjAyNDA1MjYwMTQ2Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:37:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Kleine Zeitung",
+            "title": "Ferrari im Gl\u00fcck: Im Video: Charles Leclerc und Teamchef Frederic Vasseur gingen in Monaco baden - Kleine Zeitung",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5rbGVpbmV6ZWl0dW5nLmF0L3Nwb3J0L21vdG9yc3BvcnQvZm9ybWVsMS8xODUwMjIwOC9pbS12aWRlby1jaGFybGVzLWxlY2xlcmMtdW5kLXRlYW1jaGVmLWZyZWRlcmljLXZhc3NldXItZ2luZ2VuLWluLW1vbmFjb9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ESPN Deportes",
+            "title": "Angel Reese del Sky minimiza falta flagrante 2 de Alyssa Thomas - ESPN - ESPN Deportes",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vZXNwbmRlcG9ydGVzLmVzcG4uY29tL2Jhc3F1ZXRib2wvbm90YS9fL2lkLzEzNzEwMDIxL2FseXNzYS10aG9tYXMtc3VuLWV4cHVsc2FkYS1mYWx0YS1mbGFncmFudGUtc29icmUtYW5nZWwtcmVlc2Utc2t50gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "LaDepeche.fr",
+            "title": "REPLAY. Stade Toulousain : Antoine Dupont and Co au Capitole devant pr\u00e8s de 12 000 fans ! Revivez le retour des champions \u00e0 Toulouse - LaDepeche.fr",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5sYWRlcGVjaGUuZnIvMjAyNC8wNS8yNi9kaXJlY3Qtc3RhZGUtdG91bG91c2Fpbi1sYS1jaGFtcGlvbnMtY3VwLWF1LWNhcGl0b2xlLWxhLWZldGUtYS10b3Vsb3VzZS1zdWl2ZXotZW4tbGl2ZS1sZS1yZXRvdXItZGVzLWNoYW1waW9ucy0xMTk3NTQ1OC5waHDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:20:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "title": "\u05e2\u05e0\u05d0\u05df \u05d7\u05dc\u05d0\u05d9\u05dc\u05d9 \u05e0\u05e4\u05e8\u05d3 \u05de\u05de\u05db\u05d1\u05d9 \u05d7\u05d9\u05e4\u05d4: \"\u05de\u05d1\u05d8\u05d9\u05d7 \u05dc\u05e9\u05d0\u05ea \u05d0\u05ea \u05e9\u05dd \u05d4\u05de\u05d5\u05e2\u05d3\u05d5\u05df \u05d1\u05d2\u05d0\u05d5\u05d5\u05d4\" - ynet \u05d9\u05d3\u05d9\u05e2\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnluZXQuY28uaWwvc3BvcnQvaXNyYWVsaXNvY2Nlci9hcnRpY2xlL2hqa2o5ZXduMNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:16:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ESPN",
+            "title": "La felicidad de Osaka ante un posible cruce con Swiatek en Roland Garros - ESPN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVzcG4uY29tLm14L3RlbmlzL25vdGEvXy9pZC8xMzcwOTc0OC9mZWxpY2lkYWQtbmFvbWktb3Nha2EtcG9zaWJsZS1jcnVjZS1pZ2Etc3dpYXRlay1yb2xhbmQtZ2Fycm9zLXd0YS1icm9uemV0dGnSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:14:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "SPEEDWEEK.COM",
+            "title": "Nico H\u00fclkenberg (Crash): \u00abBin etwas sauer\u00bb / Formel 1 - SPEEDWEEK.COM - SPEEDWEEK.COM",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNwZWVkd2Vlay5jb20vZm9ybWVsMS9uZXdzLzIyMjk0MC9OaWNvLUh1ZWxrZW5iZXJnLShDcmFzaCktQmluLWV0d2FzLXNhdWVyLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:12:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "SPEEDWEEK.COM",
+            "title": "Aleix Espargaro wollte kein Chaos: \u00abMarc ist Marc\u00bb / MotoGP - SPEEDWEEK.COM - SPEEDWEEK.COM",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnNwZWVkd2Vlay5jb20vbW90b2dwL25ld3MvMjIyOTM5L0FsZWl4LUVzcGFyZ2Fyby13b2xsdGUta2Vpbi1DaGFvcy1NYXJjLWlzdC1NYXJjLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:12:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ESPN",
+            "title": "URBA Top 12 Copa Macro: los compactos de la s\u00e9ptima fecha - ESPN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmVzcG4uY29tLm14L3J1Z2J5L25vdGEvXy9pZC8xMzcwNjQyNy91cmJhLXRvcC0xMi1jb3BhLW1hY3JvLWxvcy1jb21wYWN0b3MtZGUtbGEtc2VwdGltYS1mZWNoYS1ydWdiedIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:08:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Globo",
+            "title": "Nen\u00ea torce pelo retorno de Philippe Coutinho ao Vasco: \"Jogador sensacional, que vai ajudar muito\" - Globo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipwFodHRwczovL2dlLmdsb2JvLmNvbS9ycy9mdXRlYm9sL3RpbWVzL2p1dmVudHVkZS9ub3RpY2lhLzIwMjQvMDUvMjYvbmVuZS10b3JjZS1wZWxvLXJldG9ybm8tZGUtcGhpbGlwcGUtY291dGluaG8tYW8tdmFzY28tam9nYWRvci1zZW5zYWNpb25hbC1xdWUtdmFpLWFqdWRhci1tdWl0by5naHRtbNIBsgFodHRwczovL2dlLmdsb2JvLmNvbS9nb29nbGUvYW1wL3JzL2Z1dGVib2wvdGltZXMvanV2ZW50dWRlL25vdGljaWEvMjAyNC8wNS8yNi9uZW5lLXRvcmNlLXBlbG8tcmV0b3Juby1kZS1waGlsaXBwZS1jb3V0aW5oby1hby12YXNjby1qb2dhZG9yLXNlbnNhY2lvbmFsLXF1ZS12YWktYWp1ZGFyLW11aXRvLmdodG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:07:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "PAOK24",
+            "title": "Champions League: \u039e\u03b5\u03ba\u03b1\u03b8\u03b1\u03c1\u03af\u03b6\u03b5\u03b9 \u03c4\u03bf \u03c4\u03bf\u03c0\u03af\u03bf \u03b3\u03b9\u03b1 \u03a0\u0391\u039f\u039a - \u03a0\u0391\u039f\u039a - PAOK24",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnBhb2syNC5jb20vcG9kb3NmYWlyby80OTYxODgvY2hhbXBpb25zLWxlYWd1ZS14ZWthdGhhcml6ZWktdG8tdG9waW8tZ2lhLXBhb2sv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "\u05d4\u05d0\u05e8\u05e5",
+            "title": "\u05d4\u05e4\u05d5\u05e2\u05dc \u05d1\"\u05e9 \u05d4\u05d1\u05d8\u05d9\u05d7\u05d4 \u05e2\u05d5\u05d3 \u05e2\u05d5\u05e0\u05d4 \u05d1\u05dc\u05d9\u05d2\u05ea \u05d4\u05e2\u05dc, \u05d4\u05e4\u05d5\u05e2\u05dc \u05d0\u05d9\u05dc\u05ea \u05d9\u05e8\u05d3\u05d4 \u05dc\u05dc\u05d9\u05d2\u05d4 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea - \u05d4\u05d0\u05e8\u05e5",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmhhYXJldHouY28uaWwvc3BvcnQvYmFza2V0YmFsbC8yMDI0LTA1LTI2L3R5LWFydGljbGUvMDAwMDAxOGYtYjVkYy1kZjEzLWEzYWYtYjVkZTAwYjIwMDAw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "MLB.com",
+            "title": "Acu\u00f1a abandona el partido por lesi\u00f3n en la pierna izquierda - MLB.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm1sYi5jb20vZXMvbmV3cy9hY3VuYS1hYmFuZG9uYS1lbC1wYXJ0aWRvLXBvci1sZXNpb24tZW4tbGEtcGllcm5hLWl6cXVpZXJkYdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:05:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ESPN Deportes",
+            "title": "Ren\u00e9 Higuita le mand\u00f3 un mensaje a Kevin Mier antes de la final contra Am\u00e9rica - ESPN Deportes",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL2VzcG5kZXBvcnRlcy5lc3BuLmNvbS9mdXRib2wvbWV4aWNvL25vdGEvXy9pZC8xMzcwOTg1My9yZW5lLWhpZ3VpdGEtbWFuZG8tbWVuc2FqZS1rZXZpbi1taWVyLWFudGVzLWZpbmFsLWNydXotYXp1bC1hbWVyaWNh0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Manchester City FC",
+            "title": "City 1-2 United: resumen amplio final FA Cup 2024 - Manchester City FC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vZXMubWFuY2l0eS5jb20vY2l0eXR2L21lbnMvcmVzdW1lbi1hbXBsaW8tZmluYWwtZmEtY3VwLTIwMjQtY2l0eS0xLTItdW5pdGVkLTYzODUyMzQy0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:02:17Z",
+            "content": null
+        }
+    ]
+}
