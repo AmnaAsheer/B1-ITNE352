@@ -44,7 +44,12 @@ def get_allnews(endpoint, params):
     params['apiKey'] = NEWS_API_KEY
     response = requests.get(BASE_URL + endpoint, params=params)
     if response.status_code == 200:
-        return response.json()
+        data=response.json()
+        if 'articles' in data:
+            data['articles'] = data['articles'][:15]  # Limit to 15 results
+        elif 'sources' in data:
+            data['sources'] = data['sources'][:15]  # Limit to 15 results
+        return data
         
     else:
         return {'status': 'error', 'message': 'Unnable to fetch data'}
