@@ -1,4 +1,4 @@
-### Project Title
+## Project Title
 *News Aggregator and Distribution Server*
 
 ### Project Description
@@ -35,7 +35,7 @@ Amna Hesham - 202107285
 All Set! app is running now
 
 ### The scripts
-A. `client.py` - this script have the code for all the functionalities at client side
+#### A. `client.py` - this script have the code for all the functionalities at client side
 The client script is designed to interact with a news service server. The main functionalities of the client include searching for news headlines and listing news sources based on various criteria. The script utilizes the 'socket' and 'json' packages to communicate with the server and handle JSON data,respectively.
 Main Functionalities
 1-Connecting to the Server:
@@ -56,7 +56,7 @@ The response length is received first, followed by the actual data.
 'display_items' shows the list of news articles and their details upon selection.
 'receive_and_print' lists the news sources based on the criteria selected. 7-Main Execution Block: will manages the main application flow by Prompts the user to enter their name and sends it to the server/ Displays the main menu Based on user input, it calls search_headlines_menu or receive_sources/ or exits the application.
 
-B. `server.py` - this file represents the server configuration and settings
+#### B. `server.py` - this file represents the server configuration and settings
 socket: For creating network connections.
 threading: For handling multiple client connections simultaneously.
 requests: For making HTTP requests to the NewsAPI.
