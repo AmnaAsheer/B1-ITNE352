@@ -56,6 +56,14 @@ The response length is received first, followed by the actual data.
 'display_items' shows the list of news articles and their details upon selection.
 'receive_and_print' lists the news sources based on the criteria selected. 7-Main Execution Block: will manages the main application flow by Prompts the user to enter their name and sends it to the server/ Displays the main menu Based on user input, it calls search_headlines_menu or receive_sources/ or exits the application.
 
+
+
+   <img src="https://github.com/AmnaAsheer/B1-ITNE352/assets/169656106/9b7673f9-3b3b-463c-ab2c-d275caa7f6f7">
+   
+   <img src="https://github.com/AmnaAsheer/B1-ITNE352/assets/169656106/89c357ca-d22a-4405-be4c-91c2f044e74e">
+
+
+
 #### B. `server.py` - this file represents the server configuration and settings
 socket: For creating network connections.
 threading: For handling multiple client connections simultaneously.
@@ -80,6 +88,13 @@ Listens for incoming connections.
 Accepts connections and spawns a new thread for each client using Chandel to handle the client's requests.  
 Handles invalid requests by sending an error response.
 Closes the connection when done.
+
+<div>
+   <img src="https://github.com/AmnaAsheer/B1-ITNE352/assets/169656106/2df019b8-b987-4983-b1eb-e3c5e842c082">
+   <img src="https://github.com/AmnaAsheer/B1-ITNE352/assets/169656106/ee871f53-967e-410c-a403-84a3df6185e9">
+</div>
+
+
 ### Acknowledgments
 We want to thank our professor Dr. Mohammed Almeer for his continuing support during this project and available documentations online regarding this project
 
