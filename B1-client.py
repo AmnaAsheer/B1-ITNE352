@@ -81,7 +81,6 @@ def receive_sources(SocketC):
             
 def display_items(news_data):
     if news_data['status'] == 'ok':
-        limited_articles=news_data['articles'][:15]
         for i, article in enumerate(news_data['articles']):
             print(f"{i+1}. {article['title']}")
         choice = int(input("Select an article number for details: "))
@@ -96,8 +95,7 @@ def display_items(news_data):
 
 def receive_and_print(sources_data):
     if sources_data['status'] == 'ok':
-            limited_sources=sources_data['sources'][:15]
-    for i, source in enumerate(sources_data['sources']):
+     for i, source in enumerate(sources_data['sources']):
             print(f"{i+1}. {source['name']} ({source['country']})")
     else:
         print('Failed to fetch sources.')
