@@ -54,7 +54,7 @@ The 'mainrequest' function sends a request to the server and receives a response
 The response length is received first, followed by the actual data.
 6-Display Functions:
 'display_items' shows the list of news articles and their details upon selection.
-'receive_and_print' lists the news sources based on the criteria selected.
+'receive_and_print' lists the news sources based on the criteria selected. 7-Main Execution Block: will manages the main application flow by Prompts the user to enter their name and sends it to the server/ Displays the main menu Based on user input, it calls search_headlines_menu or receive_sources/ or exits the application.
 
 B. `server.py` - this file represents the server configuration and settings
 socket: For creating network connections.
