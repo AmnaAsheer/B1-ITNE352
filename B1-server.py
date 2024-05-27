@@ -44,13 +44,8 @@ def get_allnews(endpoint, params):
     params['apiKey'] = NEWS_API_KEY
     response = requests.get(BASE_URL + endpoint, params=params)
     if response.status_code == 200:
-        data=response.json()
-        if 'articales' in data:
-            data['articles']=data['articales'][:15]
-        elif'sources'in data:
-            data['sources']=data['sources'][:15]
-            return data
-    
+        return response.json()
+        
     else:
         return {'status': 'error', 'message': 'Unnable to fetch data'}
     
